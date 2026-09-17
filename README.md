@@ -17,11 +17,11 @@ Along the way, I gained practical experience with:
 
 ## Projects and tools
 
-My thesis built on existing research software and datasets. This section links to the tools I used and explains how they supported my work.
+During my BSc thesis on probabilistic modelling of lymphatic spread in hypopharyngeal cancer, I used the following repositories:
 
-[lyscripts](https://github.com/lycosystem/lyscripts) I used this for my BSc Thesis
-[lynference](https://github.com/lycosystem/lynference) I used this for my BSc Thesis
-[oral-cavity-model-paper](https://github.com/rmnldwg/oral-cavity-model-paper) I used this to compare my results
+* [lyscripts](https://github.com/lycosystem/lyscripts) and [lynference](https://github.com/lycosystem/lynference): Research software supporting the modelling and analysis undertaken in my thesis.
+* [oral-cavity-model-paper](https://github.com/rmnldwg/oral-cavity-model-paper): Reference analyses used to compare my findings with modelling results for oral cavity cancer.
+
 
 ## Currently exploring
 
